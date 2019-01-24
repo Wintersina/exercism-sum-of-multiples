@@ -8,6 +8,3 @@ object SumOfMultiples {
     sum
   }
 }
-
-
-println(SumOfMultiples.sum(Set(3,5),10))
